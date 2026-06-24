@@ -1,4 +1,5 @@
 # Partie 2 — Rapport Word généré à partir d'un livre
+fait par RAKOTOMALALA Fleury Joël
 
 Application **Tkinter** qui analyse le premier chapitre d'un livre et génère
 automatiquement un rapport Word illustré.
